@@ -14,18 +14,21 @@ Sections:
 
 ### Tell me about yourself:
 
-Software Developer with 3 years of experience. Built microservices in node, Front end in Angular and react, automation script in python. Use docker, ngnix and kubernetes for deploying application.
-Completed Baachelors in Computer science and engineering, and currently pursuing master in Computer Science from California State University focusing on deep learning and robotics. 
+Software Developer with 3 years of experience, proficient in backend development using Node.js and frontend development with Angular and React. Skilled in data visualization with Matplotlib and Seaborn, and experienced in deploying microservices using Docker and Kubernetes. Adept at building CI/CD pipelines with Jenkins and working with MySQL and MongoDB databases. Achieved a top 5 placement in the UberHashtag competition for innovative solutions for Uber. Completed a Bachelor's in Computer Science and Engineering, and currently pursuing a Master's in Computer Science from California State University, focusing on deep learning and robotics.
 
 ### What I Know:
-- Built end to end web application for enterpirse.
-- Built LLm application using 
-
+1. Accomplished in building end-to-end full stack web applications.
+2. Proficient in developing small scale machine learning models for understanding datasets, dataset preprocessing.
+3. Skilled in deploying web applications using DevOps technologies such as Docker, Kubernetes, and CI/CD pipelines like Jenkins.
+4. Skilled in building image segmentation, object tracking, and detection using computer vision and deep learning algorithms with the OpenCV library.
+5. Experienced in network forensics, logging, and monitoring tools such as Zeek, TShark, Logstash, PCAP, and SOF-ELK.
 
 ### Currently learning:
-
+1. Learning sequential deep learning models like LSTM and Transformer with prompt engineering.
+2. Gaining expertise in the ROS2 robotic operating system.
 
 ### Skills:
+
 **Language**:
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>,  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>, <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>,  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> ,  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> ,  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>, <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>,   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 
@@ -54,8 +57,11 @@ Completed Baachelors in Computer science and engineering, and currently pursuing
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/gitesh-pawar-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gitesh-pawar-r" height="30" width="40" /></a></p>
 
+<hr>
+
 ### Interest: 
+I aspire to build robotic hands using ROS2 and integrate neural networks to enhance robot vision and decision-making capabilities. 
 
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitesh1998&show_icons=true&locale=en&layout=compact" alt="gitesh1998" /></p>
-Last Updated: 17 July 2024
+Last Updated: 19 July 2024

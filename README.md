@@ -2,15 +2,7 @@
 <h3 align="center">Enthusiastic developer who loves tackling challenging problems and solving intricate bugs. I thrive on the excitement of finding solutions and every step of the process.</h3>
 
 - 📫 How to reach me **giteshpawar56@gmail.com**
-- ⚡ Fun fact **Quantum physics is my favorite topic as audience.**
-
-Sections:
-1. Introduction
-2. Currently learning
-3. What I know
-4. Connect with me
-5. Skills
-6. Interest 
+- ⚡ Fun fact **Quantum physics is my favorite topic as audience.** 
 
 ### Tell me about yourself:
 
